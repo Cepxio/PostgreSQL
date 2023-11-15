@@ -1,0 +1,4 @@
+[submodule "Docker"]
+	path = Docker
+	url = git@github.com:Cepxio/Docker.git
+	branch = master
